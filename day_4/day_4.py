@@ -38,3 +38,4 @@ print(company.swapcase())
 print(company[7:])
 
 # 10.
+print(company.find("Coding"))
